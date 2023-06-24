@@ -1,6 +1,6 @@
-### Sprinklr AMA ChatBot
+### Sprinklr AMA ChatBot Using Langchain
 
-The aim of this intern project is to develop a goal-oriented knowledge-based chatbot designed to convince users, be it individuals or brands using the chatbot to buy Sprinklr products. The current Sprinklr chatbot is very limited and static**.**
+The aim of this intern project is to develop a goal-oriented knowledge-based chatbot designed to convince users, be it individuals or brands using the chatbot to buy Sprinklr products. The current Sprinklr chatbot is very limited and static.
 
 ### Challenges
 
@@ -14,7 +14,8 @@ The aim of this intern project is to develop a goal-oriented knowledge-based cha
 
 ### Understanding the Workflow
 
-![Screenshot 2023-06-23 at 7.53.40 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32907e37-97f9-410e-b585-36e96cfede3b/Screenshot_2023-06-23_at_7.53.40_PM.png)
+<img width="1478" alt="image" src="https://github.com/uttam112/sprinklr/assets/123285882/452fc37d-8f25-4914-991f-fe0ff810fdac">
+
 
 ### ✨ Options
 
