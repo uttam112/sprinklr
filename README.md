@@ -17,11 +17,7 @@ The aim of this intern project is to develop a goal-oriented knowledge-based cha
 <img width="1478" alt="image" src="https://github.com/uttam112/sprinklr/assets/123285882/452fc37d-8f25-4914-991f-fe0ff810fdac">
 
 
-### ✨ Options
 
-| Embeddings | InstructorEmbeddings | SentenceTransformers | OpenAI |
-| --- | --- | --- | --- |
-| Vector Stores | FAISS | Chroma |  |
 
 ## Memory
 
